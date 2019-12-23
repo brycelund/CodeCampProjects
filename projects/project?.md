@@ -1,4 +1,4 @@
-# Project 1
+# Project 2
 ### Create an HTML Document with the following tags
 
 1. `<!DOCTYPE html>`
