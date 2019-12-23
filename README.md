@@ -2,6 +2,8 @@
 
 The goal is to create about 20 small projects that gradually build on the skills they've learned previously to help them get a good footing with HTML and Javascript.
 
+New concepts should be introduced gradually and links to the appropriate w3schools page should be provided as new concepts are introduced.
+
 The initial projects will deal entirely with HTML helping them learn how to put content on a page, then we'll move over into CSS to style the pages, then javascript and teach them how to use javascript to do basic functions, conditionals, loops etc.
 
 Then the final projects will be merging HTML, CSS, and Javascript to have them manipulate the DOM using Javascript.
