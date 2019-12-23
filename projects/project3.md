@@ -19,3 +19,5 @@ The tags need to be in the right places
 4. ### Add a paragraph tag (`<p>`) and write a paragraph about yourself.
 5. ### Make an unordered list (`<ul>`) of your favorite things. This list should include at least 3 list items (`<li>`)
 6. ### Add a button (`<button>`) that says `Learn more`
+
+[Read this page if you get stuck](https://www.w3schools.com/html/html_elements.asp)
