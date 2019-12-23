@@ -16,8 +16,8 @@ The tags need to be in the right places
 
 ### [Read this page if you get stuck](https://www.w3schools.com/html/html_elements.asp)
 
-2. ### Save it as a new file called `Project3.html`
-3. ### Add an `<h1>` tag with your name
-4. ### Add a paragraph tag (`<p>`) and write a paragraph about yourself.
-5. ### Make an unordered list (`<ul>`) of your favorite things. This list should include at least 3 list items (`<li>`) [Learn how to make a list](https://www.w3schools.com/html/html_lists.asp)
-6. ### Add a button (`<button>`) that says `Learn more` [Learn how to make a button](https://www.w3schools.com/tags/tag_button.asp)
+1. ### Save it as a new file called `Project3.html`
+1. ### Add an `<h1>` tag with your name
+1. ### Add a paragraph tag (`<p>`) and write a paragraph about yourself.
+1. ### Make an unordered list (`<ul>`) of your favorite things. This list should include at least 3 list items (`<li>`) [Learn how to make a list](https://www.w3schools.com/html/html_lists.asp)
+1. ### Add a button (`<button>`) that says `Learn more` [Learn how to make a button](https://www.w3schools.com/tags/tag_button.asp)
