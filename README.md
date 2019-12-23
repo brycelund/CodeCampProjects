@@ -1,4 +1,4 @@
-# Kids Who Code Projects
+# Code Camp Projects
 
 The goal is to create about 20 small projects that gradually build on the skills they've learned previously to help them get a good footing with HTML and Javascript.
 
