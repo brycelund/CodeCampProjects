@@ -17,4 +17,4 @@ The tags need to be in the right places
 2. ### Save it as a new file called `Project4.html`
 3. ### Add an `<h1>` tag that says `Go to Google`
 4. ### Add a link tag (`<a>`) and give it a title of `Google`.
-5. ### [Read this page] (https://www.w3schools.com/html/html_attributes.asp) and learn how to make a link go somewhere. 
+5. ### [Read this page](https://www.w3schools.com/html/html_attributes.asp) and learn how to make a link go somewhere. 
