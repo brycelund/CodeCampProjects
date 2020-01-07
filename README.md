@@ -1,6 +1,6 @@
 # Code Camp Projects
 
-The goal is to create about 20 small projects that gradually build on the skills they've learned previously to help them get a good footing with HTML and Javascript.
+The goal is to create small projects that incrementally build on the skills they've learned previously to help kids get a good footing with HTML and Javascript.
 
 New concepts should be introduced gradually and links to the appropriate w3schools page should be provided as new concepts are introduced.
 
