@@ -1,7 +1,11 @@
 # Project 1
 ## Add your Name to HTML
 
-1. ### Copy this code into your editor
+1. ### Go to Glitch.com
+1. ### Create a new project from template `hello-webpage`
+1. ### Rename project
+  - Click the name of the project in the top-left corner and change the name to yourName-project1
+1. ### Copy this code into your editor in the index.html file
 ```
 <!DOCTYPE html>
 <html>
@@ -15,6 +19,5 @@
 
 </html>
 ```
-
-2. ### Save it as a new file called `Project1.html`
-3. ### Find where it says John and change it to say your name
+1. ### Find where it says John and change it to say your name
+1. ### Click Show at the top of the page, then click next to the code
