@@ -8,6 +8,7 @@ The initial projects will deal entirely with HTML helping them learn how to put 
 
 Then the final projects will be merging HTML, CSS, and Javascript to have them manipulate the DOM using Javascript.
 
+We'll be using glitch.com to run and host all their projects
 
 ## Projects
 
