@@ -7,6 +7,10 @@
   - Click the name of the project in the top-left corner and change the name to yourName-project1
 1. ### Delete everything in the index.html file
 1. ### Copy this code into your editor in the index.html file
+
+Copy is Command + C
+Paste is Command + V
+
 ```
 <!DOCTYPE html>
 <html>
