@@ -11,10 +11,8 @@
 
 - `background-color: pink`
 - `text-align: center`
-- `text-align: center`
 - `border: 1px solid red`
 - `border: 1px dashed green`
-- `font-size: 25px`
 - `font-size: 25px`
 
 ## [Here is a list of all HTML Colors](https://www.w3schools.com/tags/ref_colornames.asp)
