@@ -15,4 +15,6 @@
 - `border: 1px dashed green`
 - `font-size: 25px`
 
+## Add each of these properties to your website on different tags. Change the colors and sizes to whatever you want.
+
 ## [Here is a list of all HTML Colors](https://www.w3schools.com/tags/ref_colornames.asp)
